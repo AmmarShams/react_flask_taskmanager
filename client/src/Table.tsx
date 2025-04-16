@@ -61,7 +61,7 @@ function Table() {
 
   return (
     <div className="container">
-      <h1 className="title">Task Manager</h1>
+      <h1 className="title m-1">Task Manager</h1>
 
       <div className="row">
         <div className="col-md-8 text-center">
