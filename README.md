@@ -22,7 +22,7 @@ A simple yet powerful Task Manager web application built with **React (TypeScrip
 **Frontend:**
 - React (with TypeScript)
 - Axios (for API calls)
-- Tailwind CSS (or any CSS framework you're using)
+- Tailwind CSS 
 
 **Backend:**
 - Python Flask
