@@ -35,6 +35,6 @@ A simple yet powerful Task Manager web application built with **React (TypeScrip
 
 ### Backend (Flask)
 ```bash
-cd backend
+cd server
 pip install -r requirements.txt
 python app.py
