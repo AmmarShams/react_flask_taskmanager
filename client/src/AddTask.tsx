@@ -37,7 +37,8 @@ function AddTask({ title = "", button_text, onTaskAdded }: Props) {
       <h1>{title}</h1>
       <form onSubmit={handleClick}>
         <div className="form-floating m-2">
-          <input
+          <input 
+            required
             className="form-control"
             type="text"
             name="content"
